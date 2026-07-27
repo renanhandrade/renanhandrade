@@ -1,16 +1,46 @@
-## Hi there 👋
+# Renan Andrade
 
-<!--
-**renanhandrade/renanhandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graphic Designer • Digital Games Student
 
-Here are some ideas to get you started:
+Building my career at the intersection of design, technology and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+🎨 Graphic Designer
+
+🎮 Digital Games student at FATEC Americana
+
+💻 Currently learning HTML, CSS and Java
+
+🚀 Transitioning into Technology and Game Development
+
+---
+
+## Areas of Interest
+
+- Front-end Development
+- Game Development
+- Computer Graphics
+- Digital Design
+- Creative Technology
+
+---
+
+## Currently Learning
+
+- HTML
+- CSS
+- Java
+- Git & GitHub
+
+---
+
+### Let's Connect
+
+LinkedIn (adicionaremos depois)
+
+Behance (adicionaremos depois)
+
+Portfolio (em breve)
