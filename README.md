@@ -35,12 +35,3 @@ Building my career at the intersection of design, technology and game developmen
 - Java
 - Git & GitHub
 
----
-
-### Let's Connect
-
-LinkedIn (adicionaremos depois)
-
-Behance (adicionaremos depois)
-
-Portfolio (em breve)
